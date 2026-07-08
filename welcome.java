@@ -4,6 +4,6 @@ public class welcome {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter your name:");
         String name = sc.nextLine();
-        System.out.println("Welcome" +name+ "!");
+        System.out.println("Welcome " + name + "!");
     }
 }
